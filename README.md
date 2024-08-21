@@ -1,2 +1,1 @@
-# OOP_practical
-(Semester 3) object oriented programming lab code (sppu)
+Second Year (sem-3) oops lab Practical SPPU pune university 
